@@ -1,0 +1,13 @@
+pip install beautifulsoup4 
+pip install html5lib
+pip install h5py
+pip install jupyter 
+pip install Keras 
+pip install matplotlib 
+pip install numpy 
+pip install nltk 
+pip install pandas 
+pip install requests 
+pip install scikit-learn 
+pip install tensorflow-gpu==1.4.0
+pip install wordcloud
