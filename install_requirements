@@ -19,3 +19,5 @@ pip install pydotplus # hmm-tagger
 pip install udacity-pa # hmm-tagger
 pip install pomegranate # hmm-tagger
 conda install -y -c anaconda nb_conda # hmm-tagger
+
+pip install gensim # topic-modeling
