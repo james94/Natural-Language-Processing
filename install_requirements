@@ -1,13 +1,21 @@
 pip install beautifulsoup4 
 pip install html5lib
 pip install h5py
-pip install jupyter 
+pip install jupyter # hmm-tagger
 pip install Keras 
-pip install matplotlib 
+pip install matplotlib # hmm-tagger
 pip install numpy 
-pip install nltk 
-pip install pandas 
+pip install nltk # hmm-tagger
+pip install pandas # hmm-tagger
 pip install requests 
-pip install scikit-learn 
+pip install scikit-learn # hmm-tagger
 pip install tensorflow-gpu==1.4.0
 pip install wordcloud
+
+pip install tqdm # hmm-tagger
+pip install scipy # hmm-tagger
+pip install pydot # hmm-tagger
+pip install pydotplus # hmm-tagger
+pip install udacity-pa # hmm-tagger
+pip install pomegranate # hmm-tagger
+conda install -y -c anaconda nb_conda # hmm-tagger
