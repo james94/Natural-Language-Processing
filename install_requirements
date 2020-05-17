@@ -9,7 +9,7 @@ pip install nltk # hmm-tagger
 pip install pandas # hmm-tagger
 pip install requests 
 pip install scikit-learn # hmm-tagger
-pip install tensorflow-gpu==1.4.0
+pip install tensorflow-gpu==1.2.0
 pip install wordcloud
 
 pip install tqdm # hmm-tagger
