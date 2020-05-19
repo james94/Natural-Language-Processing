@@ -3,6 +3,7 @@ pip install html5lib
 pip install h5py
 pip install jupyter # hmm-tagger
 pip install Keras 
+pip install seaborn
 pip install matplotlib # hmm-tagger
 pip install numpy 
 pip install nltk # hmm-tagger
